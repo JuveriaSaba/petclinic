@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51950" started-at="2017-05-21T16:22:39Z" finished-at="2017-05-21T16:23:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51950" started-at="2017-05-21T16:22:39Z" finished-at="2017-05-21T16:23:31Z">
+      <class name="org.springframework.samples.petclinic.vselenium.homePageTest">
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="startDriver" is-config="true" duration-ms="4373" started-at="2017-05-21T17:22:39Z" finished-at="2017-05-21T17:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="activeMenuLinkTest()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="activeMenuLinkTest" duration-ms="2032" started-at="2017-05-21T17:22:43Z" finished-at="2017-05-21T17:22:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activeMenuLinkTest -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="closeDriver" is-config="true" duration-ms="2171" started-at="2017-05-21T17:22:45Z" finished-at="2017-05-21T17:22:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="startDriver" is-config="true" duration-ms="1482" started-at="2017-05-21T17:22:47Z" finished-at="2017-05-21T17:22:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="checkWelcomeImageTest()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="checkWelcomeImageTest" duration-ms="1507" started-at="2017-05-21T17:22:49Z" finished-at="2017-05-21T17:22:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWelcomeImageTest -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="closeDriver" is-config="true" duration-ms="2161" started-at="2017-05-21T17:22:50Z" finished-at="2017-05-21T17:22:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="startDriver" is-config="true" duration-ms="1818" started-at="2017-05-21T17:22:53Z" finished-at="2017-05-21T17:22:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="clickOnErrorLinlTest()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="clickOnErrorLinlTest" duration-ms="1375" started-at="2017-05-21T17:22:54Z" finished-at="2017-05-21T17:22:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnErrorLinlTest -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="closeDriver" is-config="true" duration-ms="2391" started-at="2017-05-21T17:22:56Z" finished-at="2017-05-21T17:22:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="startDriver" is-config="true" duration-ms="2003" started-at="2017-05-21T17:22:58Z" finished-at="2017-05-21T17:23:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="clickOnOwnersLinkTest()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="clickOnOwnersLinkTest" duration-ms="1384" started-at="2017-05-21T17:23:00Z" finished-at="2017-05-21T17:23:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnOwnersLinkTest -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="closeDriver" is-config="true" duration-ms="379" started-at="2017-05-21T17:23:02Z" finished-at="2017-05-21T17:23:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="startDriver" is-config="true" duration-ms="1898" started-at="2017-05-21T17:23:02Z" finished-at="2017-05-21T17:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="clickOnVetsLinlTest()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="clickOnVetsLinlTest" duration-ms="1909" started-at="2017-05-21T17:23:04Z" finished-at="2017-05-21T17:23:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnVetsLinlTest -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="closeDriver" is-config="true" duration-ms="2377" started-at="2017-05-21T17:23:06Z" finished-at="2017-05-21T17:23:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="startDriver" is-config="true" duration-ms="2010" started-at="2017-05-21T17:23:08Z" finished-at="2017-05-21T17:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="footerImageTest()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="footerImageTest" duration-ms="1049" started-at="2017-05-21T17:23:10Z" finished-at="2017-05-21T17:23:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerImageTest -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="closeDriver" is-config="true" duration-ms="2375" started-at="2017-05-21T17:23:11Z" finished-at="2017-05-21T17:23:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="startDriver" is-config="true" duration-ms="1997" started-at="2017-05-21T17:23:14Z" finished-at="2017-05-21T17:23:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="getHomePageTitleTest()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="getHomePageTitleTest" duration-ms="886" started-at="2017-05-21T17:23:16Z" finished-at="2017-05-21T17:23:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHomePageTitleTest -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="closeDriver" is-config="true" duration-ms="2316" started-at="2017-05-21T17:23:17Z" finished-at="2017-05-21T17:23:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="startDriver" is-config="true" duration-ms="1419" started-at="2017-05-21T17:23:19Z" finished-at="2017-05-21T17:23:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="homePageheadingTest()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="homePageheadingTest" duration-ms="867" started-at="2017-05-21T17:23:20Z" finished-at="2017-05-21T17:23:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageheadingTest -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="closeDriver" is-config="true" duration-ms="2072" started-at="2017-05-21T17:23:21Z" finished-at="2017-05-21T17:23:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="startDriver" is-config="true" duration-ms="1476" started-at="2017-05-21T17:23:23Z" finished-at="2017-05-21T17:23:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="menuBackGroundImageTest()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="menuBackGroundImageTest" duration-ms="813" started-at="2017-05-21T17:23:25Z" finished-at="2017-05-21T17:23:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuBackGroundImageTest -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="closeDriver" is-config="true" duration-ms="2047" started-at="2017-05-21T17:23:25Z" finished-at="2017-05-21T17:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="startDriver" is-config="true" duration-ms="1886" started-at="2017-05-21T17:23:28Z" finished-at="2017-05-21T17:23:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="menulinksOnPageTest()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="menulinksOnPageTest" duration-ms="1074" started-at="2017-05-21T17:23:29Z" finished-at="2017-05-21T17:23:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menulinksOnPageTest -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:org.springframework.samples.petclinic.vselenium.homePageTest@3701eaf6]" name="closeDriver" is-config="true" duration-ms="301" started-at="2017-05-21T17:23:30Z" finished-at="2017-05-21T17:23:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- org.springframework.samples.petclinic.vselenium.homePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
